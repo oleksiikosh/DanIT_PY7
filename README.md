@@ -1,2 +1,2 @@
 # DanIT_PY7
-Repository of
+Repository of some fixes file
